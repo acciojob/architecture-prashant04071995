@@ -1,1 +1,57 @@
-/*  your css code here. If applicable */
+.con{
+
+    max-width: 1100px;
+    margin: 20px auto;
+
+}
+
+.con-img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+.arc-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.img-1{
+    background-size: 200px 200px;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid #ccc;
+	background-image: url(https://www.openart.in/wp-content/uploads/2016/10/architectural.jpg);
+
+}
+.img-2{
+    background-size: 200px 200px;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid #ccc;
+	background-image: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is696MVKVB.I/v1/-999x-999.gif);
+
+}
+.img-3{
+    background-size: 200px 200px;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid #ccc;
+	background-image: url(https://media.architecturaldigest.com/photos/6499bd6757eceeca17cb751f/16:9/w_1600,c_limit/GettyImages-1170020493.jpg);
+
+}
+.img-4{
+    background-size: 200px 200px;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid #ccc;
+	background-image: url(https://inspgr.id/app/uploads/2023/08/architecture-alexander-zhidkov-feature-805x568.jpg);
+
+}
+
+
+.text{
+    width: 600px;
+}
